@@ -1,0 +1,17 @@
+# -------- BACKEND --------
+backend/target/
+backend/src/main/resources/application.properties
+backend/.settings/
+backend/.project
+backend/.classpath
+
+# -------- FRONTEND --------
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+frontend/.env.local
+
+# -------- OS --------
+.DS_Store
+Thumbs.db

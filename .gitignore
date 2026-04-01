@@ -1,0 +1,23 @@
+# BACKEND - compiled files
+**/target/
+**/bin/
+
+# BACKEND - sensitive config
+**/application.properties
+
+# BACKEND - Eclipse files
+**/.settings/
+**/.project
+**/.classpath
+**/.mvn/
+
+# FRONTEND
+**/node_modules/
+**/dist/
+**/build/
+**/.env
+**/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
